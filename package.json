@@ -1,12 +1,23 @@
 {
   "name": "waypoints",
-  "version": "0.0.0",
+  "version": "1.0.0",
+  "license": "MIT",
+  "keywords": [
+    "signalk-webapp"
+  ],
+  "homepage": "https://github.com/corneliuene/waypoints",
+  "bugs": "https://github.com/corneliuene/waypoints/issues",
+  "author": "Cornelius <corneliuene@gmail.com>",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
     "test": "ng test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/corneliuene/waypoints"
   },
   "private": true,
   "dependencies": {
